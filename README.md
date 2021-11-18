@@ -1,3 +1,3 @@
 # PracticasFormularios
 mis primeras practicas en HTML
-<a href="https://github.com/Agustyn97/PracticasFormularios/blob/main/Ejercicios.html">Mi pagina</a>
+<a href="https://agustyn97.github.io/PracticasFormularios/Ejercicios.html">Mi pagina</a>
